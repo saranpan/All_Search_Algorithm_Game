@@ -14,6 +14,7 @@ Using Blind or Heuristic Search Algorithm like A* to find the optimal solution f
 
 ## Maze Runner
 [![open in colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/drive/1kUlh2VSk3N3npCS_RneXjXSsjBhGI9yx?usp=sharing)
+
 Find the best path solution useing <b>A* Algorithm</b>
 ![mazegame](https://camo.githubusercontent.com/d01b2178f6e8671b0f649c8618e849ad9c40584ca538ceee05ead01483de9f6d/68747470733a2f2f692e6962622e636f2f5a4777345651592f494d472d383131312e6a7067)
 
