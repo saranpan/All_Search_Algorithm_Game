@@ -42,7 +42,7 @@ The Player cannot move their action if...
 
 
 ## 24 Game
-[![open in colab](https://colab.research.google.com/drive/1072XzxX9XOkb6u9_L8etAWnnqJHC2jnI?usp=sharing)
+[![open in colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/drive/1072XzxX9XOkb6u9_L8etAWnnqJHC2jnI?usp=sharing)
 
 ## Pokemon Boulder Puzzle
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
