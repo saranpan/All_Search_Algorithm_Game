@@ -51,8 +51,8 @@ The Action list that the player is allowed to use is
 > ÷ 
 
 The Player cannot move their action if...
-> The result is negative eg. 6-9 = -3
-> The result is indivisible (Not integer) eg. 6/9 
+> The result is negative eg. 6-9 = -3 <br>
+> The result is indivisible (Not integer) eg. 6/9 <br>
 > Divide by zero eg. 6÷0
 
 - This game also collects the statistics of the time players spent on solving. You can check out what is the fastest time 
