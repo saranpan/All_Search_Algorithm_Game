@@ -24,14 +24,14 @@ This game is on the 10✕10 array
 > End : The Player wins if they reach at the last row, column 9 
 
 The Action list that the player is allowed to use is
-> Move Left
-> Move Right
-> Move up
+> Move Left <br>
+> Move Right <br>
+> Move up <br>
 > Move down
 
 The Player cannot move their action if...
-> The index that the player stand have an obstacle 
-> If the player got shot by the laser
+> The index that the player stand have an obstacle <br>
+> If the player got shot by the laser <br>
 <u>Note</u> : Laser will turn on when the user's step is even (2,4,...,2n)
 
 - Every Action's costs is 1, but 0.5 when the player obtain the fast shoe
