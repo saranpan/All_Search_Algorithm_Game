@@ -57,10 +57,9 @@ The Player cannot move their action if...
 
 - This game also collects the statistics of the time players spent on solving. You can check out what is the fastest time 
 - Autoplay mode is available, you can play wihtout have to type command line by line 
-- Check balance
+
 ```sh
 game = game24(autoplay=True)
-''
 ```
 game = game24(autoplay=True)
 
